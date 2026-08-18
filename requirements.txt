@@ -1,0 +1,4 @@
+tree-sitter>=0.21.3,<0.22
+tree-sitter-languages>=1.10.2
+gitpython>=3.1.52
+radon>=6.0.1
